@@ -11,11 +11,11 @@ We don't know yet if that wave has crested, but we're still seeing layoff news e
 And thus, Effective Immediately was born.
 
 ## Who are we?
-Your core maintainers here are Eben Dower, Kevin Landucci, and Krista Lane, all former Senior Talent Managers at Triplebyte.
+Your core maintainers here are [Eben Dower](https://linkedin.com/in/eben-dower), [Kevin Landucci](https://linkedin.com/in/kevinlanducci), and [Krista Lane](https://linkedin.com/in/krista-lane), all former Senior Talent Managers at Triplebyte.
 
-Jordan Helsloot is a valued contributor to Effective Immediately and former Head of Talent Management at Triplebyte.
+[Jordan Helsloot](https://linkedin.com/in/jordanhelsloot) is a valued contributor to Effective Immediately and former Head of Talent Management at Triplebyte.
 
-Trent Krupp, Triplebyte's current VP of Operations, lent fundamental support and encouragement to enable this project to exist beyond Triplebyte.
+[Trent Krupp](https://linkedin.com/in/trentkrupp), Triplebyte's current VP of Operations, lent fundamental support and encouragement to enable this project to exist beyond Triplebyte.
 
 Although our origins began with Triplebyte, Effective Immediately has no remaining affiliation (in any legally binding manner, at least) to it. We will not comment specifically about Triplebyte or its layoffs.
 
@@ -25,6 +25,8 @@ Lastly, a brief disclaimer: the three of us are not perfect. We chose a communit
 We are heavily inspired by how [jlevy](https://github.com/jlevy) organized his open source [Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation) (we'd been sharing this with candidates for a while-- thank you!) and so our current approach is for this readme to be comprehensive, well-organized, searchable and community-supported.
 
 ## How to contribute
+*See [contributing file](../effective-immediately/contributing.md) for more detail and full attributions list.*
+
 Have you found other resources useful that you don't see here?
 
 Do you have feedback on topics we should cover more deeply (or broadly), want to submit original contributions, or other suggestions?
