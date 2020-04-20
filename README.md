@@ -57,22 +57,55 @@ Getting laid off under any circumstance is no walk in the park, but during a pan
 #### Broaden your community
 You aren't alone. Find others sharing what's helped them, and share what's helped you that might help others.
 - [Silver Lining](https://www.getsilverlining.com/) is a site for candidates and companies. It includes a talent dashboard for candidates to get discovered, job boards to browse, their own [collection of resources](https://www.getsilverlining.com/resources), and a growing Slack community offering support by career coaches and peers. Companies can browse candidates if they're hiring, or register their layoff to quickly connect their affected employees to support.
-- Does your company (or previous companies you've worked at) have an alumni network you can connect with for support or job opportunities (or both)? Maybe other communities, like a church, club or university?
+- [HireClub](https://www.facebook.com/groups/hireclub/) is a Facebook group to help facilitate peer to peer job referrals, and it's moderated by a career coaching service aptly named HireClub.
+- [Elpha](https://elpha.com/) is a community for women in tech. Although the site as a whole is not specific to job hunting, there are tags and mini-communities within it, as well as job postings.
+- Does your company (or previous companies you've worked at) have an alumni network you can connect with for support or job opportunities (or both)? What about other communities you might already be part of, like a church, club, gym, or university?
 
 #### Unemployment benefits
 - Your specific unemployment benefits will vary depending on your state, situation, etc. But you can start with [edd.ca.gov](https://edd.ca.gov) if you're in California, and the federal government also has info at [usa.gov/unemployment](https://www.usa.gov/unemployment).
 - There are new benefits specifically during the state of emergency caused by COVID-19, some of which apply to everyone affected, and some of which apply only to those who lost jobs directly because of COVID-19.
 
 #### All-in-one guides that cover some or all of the above (and below)
-- Kevin Landucci made a [30-day plan](https://docs.google.com/document/d/1bhuq69I1l8AjLcCcm_3kZofdtAT3C-d7paBKlC2C3lg/edit).
-- Jordan Helsloot assembled [this guide](https://docs.google.com/document/d/1sssZI5H7LSH1V0eiTU7b2ERFi4GLDSS0Jw-PkXmVmtc/edit?usp=sharing) for our former Triplebyte colleagues from resources collected and shared by all of us over March/April.
-- Helen Wang assembled [this guide](https://docs.google.com/document/d/1nZ9s-0nQke6-lO6iaku-TZLVaWjxsM39z4P1smlDeQs/edit#heading=h.5j2gplfgz7dh) for their former Yelp colleagues, but it's broadly applicable. Covers basic details re: filing for unemployment, stimulus info at a glance, and maintaining some income while you job-search, etc.
+- [Kevin Landucci](https://linkedin.com/kevinlanducci) made a [30-day plan](https://docs.google.com/document/d/1bhuq69I1l8AjLcCcm_3kZofdtAT3C-d7paBKlC2C3lg/edit). The focus here is, "if you do nothing else in the first month post-layoff, do these things." Many additional resources linked within.
+- [Jordan Helsloot](https://linkedin.com/in/jordanhelsloot) assembled a guide he's calling "[Getting a job in the coronapocalypse](https://docs.google.com/document/d/1sssZI5H7LSH1V0eiTU7b2ERFi4GLDSS0Jw-PkXmVmtc/edit?usp=sharing)" for our former Triplebyte colleagues from resources collected and shared by all of us over March/April.
+- [Helen Wang](https://www.linkedin.com/in/helen-wang-5b8740b7/) assembled [this guide](https://docs.google.com/document/d/1nZ9s-0nQke6-lO6iaku-TZLVaWjxsM39z4P1smlDeQs/edit#heading=h.5j2gplfgz7dh) for their former Yelp colleagues, but it's broadly applicable. Covers basic details re: filing for unemployment, stimulus info at a glance, and maintaining some income while you job-search, etc.
+- [Patricia Mou](https://twitter.com/_patriciamou) compiled and regularly adds community-sourced resources into a [central job-searching list](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757). Every job board and talent list we've seen in the last month is on her list. We'll spend more time annotating those links below.
 
 ## Applying to jobs
 
 #### Getting organized
-We cannot recommend highly enough staying organized in this process. Don't trust yourself to remember everywhere you've applied in your head while so much is going on. Track who you're talking to, from where, about which role, anticipated next steps, and how you feel about that opportunity.
+We cannot recommend highly enough staying organized in this process. Don't trust yourself to remember everywhere you've applied in your head while so much is going on. At a minimum, track who you're talking to, from where, about which role, anticipated next steps, and how you feel about that opportunity.
 - Here's a basic [sample job search tracker](https://docs.google.com/spreadsheets/d/1qTpAQoZr8vu_yJZ2Du9f3sYgM0kldscqXdyHGfGQ0SU/edit#gid=0) you can adapt for yourself, courtesy of Jordan Helsloot.
 - [Huntr.co](https://huntr.co/) website-ifies this concept if you like pretty things.
 - Some people write daily schedules to keep themselves on track for their job search. If that works for you, awesome!
 - Others find goal-setting within a wider time frame to be more effective for them. An example: rather than spending 9-11am updating resume, 2-3pm preparing applications/requesting intros, etc, you might find it easier to set achievable goals you control, such as, "by the end of day Wednesday, I will have applied to 15 jobs." Break that down into manageable tasks (research/bookmark jobs, update resume, write cover letter, update tracker, etc.) that build up to the overall goal for that time period. Find what works for you.
+
+#### Updating resumes & writing cover letters
+
+#### Where to apply
+
+## Preparing for interviews
+
+## Offers
+
+## Employers - How you can help
+We're glad you're here!
+
+#### Before layoffs
+#### After layoffs
+#### Still hiring?
+If your company is unaffected by layoffs, or if layoffs did not impact hiring needs in other departments, you can do a few things to contribute toward industry-wide solutions:
+
+###### Source your candidate pipeline from layoff lists/trackers, either distributed by your investors or through sites listed below. Layoffs are currently affecting every sector (even parts of healthcare).
+- [layoffs.fyi](layoffs.fyi)
+- [Layoff-Aid](https://www.layoff-aid.com/faqforhiring)
+- [Candor.co](https://candor.co/layoff-list/)
+- [Awesome People List](https://docs.google.com/spreadsheets/d/1veoc3BJdELLkYpiJ1_ehXuKL_nK9ijROk8_bn0OmPso/edit#gid=1954995424) for candidates laid off from venture-backed companies.
+
+###### Repost open jobs frequently. Stale postings (2+ weeks old, especially if your company already had a round of layoffs) are unreliable when industry hiring needs are changing weekly. If you haven't already, add your open jobs to sites/lists like the following:
+- [Still hiring](https://www.stillhiring.io/)
+- [Silver Lining](https://www.getsilverlining.com/companies/hire)
+- [levels.fyi](https://www.levels.fyi/still-hiring/)
+- [wfhbuthiring](https://www.wfhbuthiring.com/)
+
+## Employees - How you can help
