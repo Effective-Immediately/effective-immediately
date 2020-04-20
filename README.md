@@ -43,9 +43,11 @@ This section contains resources people who've been laid off may find useful righ
 Getting laid off under any circumstance is no walk in the park, but during a pandemic is really hard. Be kind to yourself and give yourself a moment (or a few, whatever you need) to breathe and feel however you feel about it.
 
 #### Immediately after notification
-- If HR doesn't answered these 7 questions for you, find out. [HBR: 7 questions to raise after you're laid off](https://hbr.org/2020/03/7-questions-to-raise-immediately-after-youre-laid-off). Although worth reading for the context, since it's paywalled, the basic questions are:
--* When do I receive my last paycheck? Will I receive severance pay? How long will I have to exercise my stock options? Does the company offer healthcare coverage after my last day, and if so for how long? Will you provide a reference for me? How can I get copies of my performance reviews, and by when? What will happen to my 401(k)?
--* We'd add, "Will I be able to keep my computer/related equipment?" If not, and you don't have a personal machine, ask if it's possible to keep on loan until you find your next job. This is particularly important considering public access to computer facilities (like the library) is restricted right now, and many of your interviews will be conducted remotely using a computer that can connect to videoconferencing software.
+
+##### Questions to ask:
+If HR doesn't answer these 7 questions for you, find out. [HBR: 7 questions to raise after you're laid off](https://hbr.org/2020/03/7-questions-to-raise-immediately-after-youre-laid-off). Although worth reading for the context, since it's paywalled, the basic questions are:
+- When do I receive my last paycheck? Will I receive severance pay? How long will I have to exercise my stock options? Does the company offer healthcare coverage after my last day, and if so for how long? Will you provide a reference for me? How can I get copies of my performance reviews, and by when? What will happen to my 401(k)?
+- We'd add, "Will I be able to keep my computer/related equipment?" If not, and you don't have a personal machine, ask if it's possible to keep on loan until you find your next job. This is particularly important considering public access to computer facilities (like the library) is restricted right now, and many of your interviews will be conducted remotely using a computer that can connect to videoconferencing software.
 
 #### Self-care and resilience
 - Maintaining one's health is critical, mentally and physically. Therapy can really help. If you're on a tight budget, here are five affordable ideas courtesy of [Healthline](https://www.healthline.com/health/therapy-for-every-budget). [Vox](https://www.vox.com/identities/2020/4/7/21207281/coronavirus-covid-19-how-to-find-a-therapist) also has ideas specific to finding a therapist (including insurance-friendly telehealth options) during COVID-19 shelter-in-place.
