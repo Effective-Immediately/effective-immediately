@@ -101,17 +101,32 @@ We cannot recommend highly enough staying organized in this process. Don't trust
 
 #### Updating resumes & writing cover letters
 
+- Kevin's [How to make a resume that doesn’t suck](https://docs.google.com/document/d/1ETeJBTejvnj4a69kUNzjXWzgPCeGzddXyWfsjrtH5zA/edit)
+- Kevin's [Light-hearted multidimensional approach for how to make a cover letter](https://docs.google.com/document/d/1B43BggM1nXkhyAbmanuFg6N7NP6mnIuWk_0xbp9acT8/edit)
+- Krista's [longform opinions](https://medium.com/@kristalane/a-treatise-on-resumes-23497dad165f) on resumes.
+
 #### Where to apply
+- [Job Boards from “The Ultimate COVID Job Resource Stack”](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757)
+- [Emsi’s Job Postings Dashboard](https://www.economicmodeling.com/job-posting-dashboard/)
 
 ## Preparing for interviews
+- [Jopwell’s Recap Article from their “Acing the Virtual Interview” Webinar](https://www.jopwell.com/thewell/posts/webinar-series-how-to-ace-the-virtual-interview?utm_medium=email&utm_source=mc&utm_campaign=event%20-%20community%20webinar%20recap%20-%2003/30/20&utm_source=Final+Jopwell+Candidate+Master+List&utm_campaign=094cb72b72-Event+-+Community+Webinar+Recap+-+03%2F30%2F20&utm_medium=email&utm_term=0_ed426c313b-094cb72b72-261802125)
 
 ## Offers
+- Jlevy's [Comprehensive open source equity guide](https://github.com/jlevy/og-equity-compensation)
+- Jordan's [Decision-making rubric](https://docs.google.com/spreadsheets/d/1uhUTwj7WPdndOyhu7xS3BfBNEwtcc2BTHO2xmg-QGvs/edit#gid=832581606)-- helpful when comparing offers and you want to see the differences at the margin, but also useful to track weighted priorities/preferences between opportunities.
 
 ## Employers - How you can help
-We're glad you're here!
+We're glad you're here! We hope some of this is helpful and welcome input if you'd like to share wisdom with other companies.
 
 #### Before layoffs
+If you may need to lay off part of your company, consult your experts (of course), but please also read these:
+- [Andreessen Horowitz’s Guide to Planning and Managing Layoffs](https://a16z.com/2020/03/31/planning-and-managing-layoffs/)
+- [First Round’s How to Lead and Rally a Company through a Layoff](https://firstround.com/review/how-to-lead-and-rally-a-company-through-a-layoff/)
+
 #### After layoffs
+Coming soon! (seriously: we wrote a whole blog post about our experience that we'll link here when it's published)
+
 #### Still hiring?
 If your company is unaffected by layoffs, or if layoffs did not impact hiring needs in other departments, you can do a few things to contribute toward industry-wide solutions:
 
@@ -128,3 +143,5 @@ If your company is unaffected by layoffs, or if layoffs did not impact hiring ne
 - [wfhbuthiring](https://www.wfhbuthiring.com/)
 
 ## Employees - How you can help
+More thoughts coming soon! (we wrote about this in an upcoming blog post; we'll link here when it's published). In the meantime:
+- QZ on [helping a friend through a coronavirus layoff](https://qz.com/work/1829796/what-to-say-when-someone-is-laid-off-because-of-coronavirus/)
