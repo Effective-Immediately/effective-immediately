@@ -19,13 +19,13 @@ Your core maintainers here are [Eben Dower](https://linkedin.com/in/eben-dower),
 
 Although our origins began with Triplebyte, Effective Immediately has no remaining affiliation (in any legally binding manner, at least) to it. We will not comment specifically about Triplebyte or its layoffs.
 
-Lastly, a brief disclaimer: the three of us are not perfect. We chose a community, open-sourced model for this project because we know we're better together. But 2/3 of us are new to Github, and we know our perspective can be siloed when we came from the same company in the same location.
+Lastly, a brief disclaimer: the three of us are not perfect. We chose an open-sourced model for this project because we know communities are better together. But 2/3 of us are new to Github, and we know our perspective can be siloed when we came from the same company in the same location. We're mostly assuming this will be consumed by people based in the United States, perhaps especially in California from which most of our professional networks originate.
 
 ### How to use this
 We are heavily inspired by how [jlevy](https://github.com/jlevy) organized his open source [Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation) (we'd been sharing this with candidates for a while-- thank you!) and so our current approach is for this readme to be comprehensive, well-organized, searchable and community-supported.
 
 ### How to contribute
-*See [contributing file](../effective-immediately/contributing.md) for more detail and full attributions list.*
+*See [contributing file](../blob/effective-immediately/contributing.md) for more detail and full attributions list.*
 
 Have you found other resources useful that you don't see here?
 
@@ -42,12 +42,12 @@ This section contains resources people who've been laid off may find useful righ
 
 Getting laid off under any circumstance is no walk in the park, but during a pandemic is really hard. Be kind to yourself and give yourself a moment (or a few, whatever you need) to breathe and feel however you feel about it.
 
-#### Immediately after notification
-
-##### Questions to ask:
+#### Questions to ask immediately after notification
 If HR doesn't answer these 7 questions for you, find out. [HBR: 7 questions to raise after you're laid off](https://hbr.org/2020/03/7-questions-to-raise-immediately-after-youre-laid-off). Although worth reading for the context, since it's paywalled, the basic questions are:
 - When do I receive my last paycheck? Will I receive severance pay? How long will I have to exercise my stock options? Does the company offer healthcare coverage after my last day, and if so for how long? Will you provide a reference for me? How can I get copies of my performance reviews, and by when? What will happen to my 401(k)?
-- We'd add, "Will I be able to keep my computer/related equipment?" If not, and you don't have a personal machine, ask if it's possible to keep on loan until you find your next job. This is particularly important considering public access to computer facilities (like the library) is restricted right now, and many of your interviews will be conducted remotely using a computer that can connect to videoconferencing software.
+- We'd add, "Will I be able to keep my computer/related equipment?" If the answer is no, and you don't have a personal machine, ask if it's possible to keep it at least on loan until you find your next job. This is particularly important considering public access to computer facilities (like the library) is restricted right now, and many of your interviews will be conducted remotely using a computer that can connect to videoconferencing software. In general, it's worth asking for what would help make transitioning out easier (or otherwise be impactful for you), even if the answer is no.
+- Depending on your situation (i.e. company size, layoff group size within 30-90 days, state, reason for layoff), you may be entitled to minimum standard severance benefits from your company after a layoff, such as 60 or 90-day notice (or equivalent pay), or from your state government in the form of additional unemployment benefits. We're not legal experts on any of the details, and in California at least, there are newly-announced exceptions due to COVID-19. So, if you feel your severance offer is lighter than it should be, you might ask whether the HR team has confirmed if your company meets those requirements. See: [CA WARN act FAQ](https://www.edd.ca.gov/About_EDD/coronavirus-2019/faqs/Warn.htm), and [Coronavirus and the WARN act](https://news.bloomberglaw.com/daily-labor-report/virus-driven-mass-worker-layoffs-could-soon-require-notice).
+- [Candor.co](https://candor.co/guides/layoff) has a simpler guide to handle closing out with your now-former employer.
 
 #### Self-care and resilience
 - Maintaining one's health is critical, mentally and physically. Therapy can really help. If you're on a tight budget, here are five affordable ideas courtesy of [Healthline](https://www.healthline.com/health/therapy-for-every-budget). [Vox](https://www.vox.com/identities/2020/4/7/21207281/coronavirus-covid-19-how-to-find-a-therapist) also has ideas specific to finding a therapist (including insurance-friendly telehealth options) during COVID-19 shelter-in-place.
@@ -63,9 +63,23 @@ You aren't alone. Find others sharing what's helped them, and share what's helpe
 - [Elpha](https://elpha.com/) is a community for women in tech. Although the site as a whole is not specific to job hunting, there are tags and mini-communities within it, as well as job postings.
 - Does your company (or previous companies you've worked at) have an alumni network you can connect with for support or job opportunities (or both)? What about other communities you might already be part of, like a church, club, gym, or university?
 
-#### Unemployment benefits
+#### Unemployment benefits & healthcare
+
+Allegedly (we have not been able to verify this, will update if we do) CA state senate staffers are responding to constituents' concerns about problems with filing for unemployment. California residents who have trouble with filing for either state unemployment or healthcare benefits can try contacting them at Senator.[lastname]@senate.ca.gov. Even if they can't help you individually, it may not hurt to voice the pressing issues that probably a lot of people are facing. You can find your senator at findyourrep.legislature.ca.gov.
+
+##### Unemployment
+In most cases, if you were a full-time employee at the time of a layoff (and had been working full-time >12 months), you qualify for unemployment benefits.
+
+There are new, broader conditions (such as gig workers, part-timers and contractors) specifically during the state of emergency caused by COVID-19. Some benefits apply to everyone affected, and some apply only to those who lost jobs directly because of COVID-19.
+
 - Your specific unemployment benefits will vary depending on your state, situation, etc. But you can start with [edd.ca.gov](https://edd.ca.gov) if you're in California, and the federal government also has info at [usa.gov/unemployment](https://www.usa.gov/unemployment).
-- There are new benefits specifically during the state of emergency caused by COVID-19, some of which apply to everyone affected, and some of which apply only to those who lost jobs directly because of COVID-19.
+- In most cases you can apply for unemployment benefits as soon as you're no longer on company payroll. Beware of a common gotcha: if you learn you're laid off on Tuesday, but your company plans to call your "official last day" Friday, you can't apply for unemployment until Saturday.
+- Take care to complete your application as accurately as possible. One typo (for example, incorrectly filing your last day) can cause delays in getting paid, and the unemployment benefits providers are overwhelmed right now.
+
+##### Healthcare
+- People laid off are typically entitled to COBRA (your existing health coverage plan, but paid by you instead of your employer), but it is usually pretty expensive. If you have alternative healthcare options (such as a spouse's plan-- by the way, losing your job is a qualifying event to join outside of open enrollment) that may be your best route.
+- Covered California (for CA residents) may be another option.
+- You may find this article more helpful to [compare COBRA to Covered California](https://www.coveredca.com/individuals-and-families/special-circumstances/cobra/) in detail.
 
 #### All-in-one guides that cover some or all of the above (and below)
 - [Kevin Landucci](https://linkedin.com/kevinlanducci) made a [30-day plan](https://docs.google.com/document/d/1bhuq69I1l8AjLcCcm_3kZofdtAT3C-d7paBKlC2C3lg/edit). The focus here is, "if you do nothing else in the first month post-layoff, do these things." Many additional resources linked within.
@@ -74,6 +88,9 @@ You aren't alone. Find others sharing what's helped them, and share what's helpe
 - [Patricia Mou](https://twitter.com/_patriciamou) compiled and regularly adds community-sourced resources into a [central job-searching list](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757). Every job board and talent list we've seen in the last month is on her list. We'll spend more time annotating those links below.
 
 ## Applying to jobs
+We suggest taking a moment to think about what you want to do next before you start applying to every job you see. "Beggars can't be choosers" may be ringing your ear off, but your time spent here may save you a lot of energy spinning your wheels on opportunities that aren't a good fit.
+
+Determine how much time/savings you can budget to find a new job-- both optimistically: assuming you maintain current quality of life/this will be pretty temporary, and pessimistically: assuming things will be terrible and you'll have to cut back on your expenses to stretch further. Your comfort with risk may vary from someone else's, but with so many unknowns, it's safer to *assume the worst* and *hope for the best*.
 
 #### Getting organized
 We cannot recommend highly enough staying organized in this process. Don't trust yourself to remember everywhere you've applied in your head while so much is going on. At a minimum, track who you're talking to, from where, about which role, anticipated next steps, and how you feel about that opportunity.
