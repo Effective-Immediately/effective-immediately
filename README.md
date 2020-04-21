@@ -61,6 +61,8 @@ You aren't alone. Find others sharing what's helped them, and share what's helpe
 - [Silver Lining](https://www.getsilverlining.com/) is a site for candidates and companies. It includes a talent dashboard for candidates to get discovered, job boards to browse, their own [collection of resources](https://www.getsilverlining.com/resources), and a growing Slack community offering support by career coaches and peers. Companies can browse candidates if they're hiring, or register their layoff to quickly connect their affected employees to support.
 - [HireClub](https://www.facebook.com/groups/hireclub/) is a Facebook group to help facilitate peer to peer job referrals, and it's moderated by a career coaching service aptly named HireClub.
 - [Elpha](https://elpha.com/) is a community for women in tech. Although the site as a whole is not specific to job hunting, there are tags and mini-communities within it, as well as job postings.
+- [Diversify Tech](https://www.diversifytech.co/) is a collection of resources for underrepresented people in tech, including job postings and various communities you might be interested to join.
+- [Hire Tech Ladies](https://www.hiretechladies.com/) is, like Elpha, a community for women in tech, but as the name suggests is more focused on hiring/getting hired.
 - Does your company (or previous companies you've worked at) have an alumni network you can connect with for support or job opportunities (or both)? What about other communities you might already be part of, like a church, club, gym, or university?
 
 #### Unemployment benefits & healthcare
