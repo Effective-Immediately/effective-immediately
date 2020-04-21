@@ -87,12 +87,14 @@ There are new, broader conditions (such as gig workers, part-timers and contract
 - [Kevin Landucci](https://linkedin.com/kevinlanducci) made a [30-day plan](https://docs.google.com/document/d/1bhuq69I1l8AjLcCcm_3kZofdtAT3C-d7paBKlC2C3lg/edit). The focus here is, "if you do nothing else in the first month post-layoff, do these things." Many additional resources linked within.
 - [Jordan Helsloot](https://linkedin.com/in/jordanhelsloot) assembled a guide he's calling "[Getting a job in the coronapocalypse](https://docs.google.com/document/d/1sssZI5H7LSH1V0eiTU7b2ERFi4GLDSS0Jw-PkXmVmtc/edit?usp=sharing)" for our former Triplebyte colleagues from resources collected and shared by all of us over March/April.
 - [Helen Wang](https://www.linkedin.com/in/helen-wang-5b8740b7/) assembled [this guide](https://docs.google.com/document/d/1nZ9s-0nQke6-lO6iaku-TZLVaWjxsM39z4P1smlDeQs/edit#heading=h.5j2gplfgz7dh) for their former Yelp colleagues, but it's broadly applicable. Covers basic details re: filing for unemployment, stimulus info at a glance, and maintaining some income while you job-search, etc.
-- [Patricia Mou](https://twitter.com/_patriciamou) compiled and regularly adds community-sourced resources into a [central job-searching list](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757). Every job board and talent list we've seen in the last month is on her list. We'll spend more time annotating those links below.
+- [Patricia Mou](https://twitter.com/_patriciamou) compiled and regularly adds community-sourced resources into a [central job-searching list](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757). Every job board and talent list we've seen in the last month is on her list.
 
 ## Applying to jobs
 We suggest taking a moment to think about what you want to do next before you start applying to every job you see. "Beggars can't be choosers" may be ringing your ear off, but your time spent here may save you a lot of energy spinning your wheels on opportunities that aren't a good fit.
 
 Determine how much time/savings you can budget to find a new job-- both optimistically: assuming you maintain current quality of life/this will be pretty temporary, and pessimistically: assuming things will be terrible and you'll have to cut back on your expenses to stretch further. Your comfort with risk may vary from someone else's, but with so many unknowns, it's safer to *assume the worst* and *hope for the best*.
+
+Depending on your runway, you may decide the focus of your search is to find your next dream role to spend the next 2+ years. Or you might be looking for whatever you can do for the next year to keep the lights on.
 
 #### Getting organized
 We cannot recommend highly enough staying organized in this process. Don't trust yourself to remember everywhere you've applied in your head while so much is going on. At a minimum, track who you're talking to, from where, about which role, anticipated next steps, and how you feel about that opportunity.
@@ -108,14 +110,29 @@ We cannot recommend highly enough staying organized in this process. Don't trust
 - Krista's [longform opinions](https://medium.com/@kristalane/a-treatise-on-resumes-23497dad165f) on resumes.
 
 #### Where to apply
+Depending how you strategize your search, you may want to "spray and pray" applications to a lot of companies, or target your search, or something in between. Some people have recommended targeting "recession-proof" businesses like food/grocery industry.
+
+It does seem wise to at least consider the weaknesses or strengths of a business's revenue model and have questions prepared for you to assess the company's likelihood to sustain themselves (or grow responsibly to avoid triggering layoffs later when demand subsides). That said, even if you apply to hundreds of companies, a subset of your list should be companies (or roles) you'd be thrilled to work for-- your enthusiasm will shine in those interviews with much less effort than a throwaway application.
+
+Regardless of your methods, in the current hiring climate we recommend spending some time evaluating how recently the job listing was added. As a rough guidance, if the posting is less than 2 weeks old: probably still active. 2-3 weeks old: suspicious, but could still be active. Be especially wary if that company has had layoffs during that time. 4+ weeks old: do not bother applying without confirming they are still hiring.
+
+It seemed overwhelming to list every job board here, but you can find many of them in these docs or elsewhere in this readme (like in the communities we've linked, or the employer section):
 - [Job Boards from “The Ultimate COVID Job Resource Stack”](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757)
 - [Emsi’s Job Postings Dashboard](https://www.economicmodeling.com/job-posting-dashboard/)
 
 ## Preparing for interviews
 - [Jopwell’s Recap Article from their “Acing the Virtual Interview” Webinar](https://www.jopwell.com/thewell/posts/webinar-series-how-to-ace-the-virtual-interview?utm_medium=email&utm_source=mc&utm_campaign=event%20-%20community%20webinar%20recap%20-%2003/30/20&utm_source=Final+Jopwell+Candidate+Master+List&utm_campaign=094cb72b72-Event+-+Community+Webinar+Recap+-+03%2F30%2F20&utm_medium=email&utm_term=0_ed426c313b-094cb72b72-261802125)
+- [Twilio Unplugged](https://www.twilio.com/blog/unplugged-series) is offering a digital interview prep series (check their site for announcements on the next live event).
+- [Pathrise](https://www.pathrise.com/guides/how-to-get-a-job-at-company) offers interview prep guides for specific companies.
+- The [STAR method summarized](https://www.vawizard.org/wiz-pdf/STAR_Method_Interviews.pdf), and sample behavioral interview questions, courtesy of VA Wizard.
+- [viraptor's](https://github.com/viraptor) open-source list of [reverse interview questions](https://github.com/viraptor/reverse-interview/blob/master/README.md) (to ask your interviewer).
+- [Yangshung Tay's](https://yangshun.im/) [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) covers a lot, specifically for technical interviewing. We discovered it through the Questions to Ask section, which can apply to many roles/types of interviews.
+- This may feel hard to prioritize when the talent supply/demand balance is out of the candidate's favor, but [Maria Campbell](https://lowercaseopinions.com/about) wrote this thoughtful post on [identifying safe places to work](https://lowercaseopinions.com/safe-place) to avoid toxic environments.
+- FastCompany on [tips for virtual interview prep](https://www.fastcompany.com/90479058/5-things-you-must-do-to-have-a-successful-job-interview-on-video-during-the-covid-19-outbreak) during COVID-19 times
 
 ## Offers
-- Jlevy's [Comprehensive open source equity guide](https://github.com/jlevy/og-equity-compensation)
+In this market, it may be challenging to negotiate or otherwise expect to move forward in your salary growth. You may even take a side step to something entirely different (and potentially lower-paying) to keep yourself busy or pay the bills til you figure something else out. That's OK! There's no shame in that, and since tens of millions of people have been laid off this year, good recruiters won't think twice about what you do this year.
+- JLevy's [Comprehensive open source equity guide](https://github.com/jlevy/og-equity-compensation)
 - Jordan's [Decision-making rubric](https://docs.google.com/spreadsheets/d/1uhUTwj7WPdndOyhu7xS3BfBNEwtcc2BTHO2xmg-QGvs/edit#gid=832581606)-- helpful when comparing offers and you want to see the differences at the margin, but also useful to track weighted priorities/preferences between opportunities.
 
 ## Employers - How you can help
@@ -125,6 +142,7 @@ We're glad you're here! We hope some of this is helpful and welcome input if you
 If you may need to lay off part of your company, consult your experts (of course), but please also read these:
 - [Andreessen Horowitz’s Guide to Planning and Managing Layoffs](https://a16z.com/2020/03/31/planning-and-managing-layoffs/)
 - [First Round’s How to Lead and Rally a Company through a Layoff](https://firstround.com/review/how-to-lead-and-rally-a-company-through-a-layoff/)
+- [Harvard Business Review on managing layoffs with compassion](https://hbr.org/2020/04/how-to-manage-coronavirus-layoffs-with-compassion?ab=hero-main-text)
 
 #### After layoffs
 Coming soon! (seriously: we wrote a whole blog post about our experience that we'll link here when it's published)
@@ -142,7 +160,9 @@ If your company is unaffected by layoffs, or if layoffs did not impact hiring ne
 - [Still hiring](https://www.stillhiring.io/)
 - [Silver Lining](https://www.getsilverlining.com/companies/hire)
 - [levels.fyi](https://www.levels.fyi/still-hiring/)
-- [wfhbuthiring](https://www.wfhbuthiring.com/)
+- [WFHButHiring](https://www.wfhbuthiring.com/)
+- [Diversify Tech](https://www.diversifytech.co/post-a-job)
+- [Hire Tech Ladies](https://www.hiretechladies.com/partners/)
 
 ## Employees - How you can help
 More thoughts coming soon! (we wrote about this in an upcoming blog post; we'll link here when it's published). In the meantime:
