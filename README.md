@@ -1,5 +1,5 @@
 # effective-immediately
-A central hub for employers, employees, or people who've been recently laid off. We hope each of you can find helpful resources about handling or recovering from layoffs during a pandemic.
+A central hub for employers, employees, and people who've been recently laid off. We hope each of you can find helpful resources about handling or recovering from layoffs during a pandemic.
 
 ### Why does this exist?
 We got laid off in early March 2020, just as America's (and to our eye, the tech industry's) wave of layoffs was building. Our company asked us to stay another month to be an information conduit and to help our former colleagues-- also laid-off-- get connected to job opportunities.
