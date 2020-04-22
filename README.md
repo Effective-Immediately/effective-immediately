@@ -146,7 +146,8 @@ If you may need to lay off part of your company, consult your experts (of course
 - [Harvard Business Review on managing layoffs with compassion](https://hbr.org/2020/04/how-to-manage-coronavirus-layoffs-with-compassion?ab=hero-main-text)
 
 #### After layoffs
-Coming soon! (seriously: we wrote a whole blog post about our experience that we'll link here when it's published)
+We're biased, but we recommend reading about our experience [running an outplacement team](https://triplebyte.com/blog/effective-immediately-supporting-your-people-after-layoffs) after Triplebyte's layoffs.
+- Here is our [tl;dr checklist](https://docs.google.com/document/d/1Uzx_kQLhM2DxujNN-V1dGajcBnHVKixGbts3b8jKZeA/edit) of that work, which contains links to templates you can use and documentation we wrote.
 
 #### Still hiring?
 If your company is unaffected by layoffs, or if layoffs did not impact hiring needs in other departments, you can do a few things to contribute toward industry-wide solutions:
@@ -167,5 +168,5 @@ If your company is unaffected by layoffs, or if layoffs did not impact hiring ne
 - [Hire Tech Ladies](https://www.hiretechladies.com/partners/)
 
 ## Employees - How you can help
-More thoughts coming soon! (we wrote about this in an upcoming blog post; we'll link here when it's published). In the meantime:
+- There's a section just for you and how to help your colleagues on our [recently-published blog post](https://triplebyte.com/blog/effective-immediately-supporting-your-people-after-layoffs). We hope it's useful.
 - QZ on [helping a friend through a coronavirus layoff](https://qz.com/work/1829796/what-to-say-when-someone-is-laid-off-because-of-coronavirus/)
