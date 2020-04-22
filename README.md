@@ -25,7 +25,7 @@ Lastly, a brief disclaimer: the three of us are not perfect. We chose an open-so
 We are heavily inspired by how [jlevy](https://github.com/jlevy) organized his open source [Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation) (we'd been sharing this with candidates for a while-- thank you!) and so our current approach is for this readme to be comprehensive, well-organized, searchable and community-supported.
 
 ### How to contribute
-*See [contributing file](../effective-immediately/blob/master/contributing.md) for more detail and full attributions list.*
+*See [contributing file](../blob/master/contributing.md) for more detail and full attributions list.*
 
 Have you found other resources useful that you don't see here?
 
