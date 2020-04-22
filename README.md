@@ -74,6 +74,7 @@ In most cases, if you were a full-time employee at the time of a layoff (and had
 
 There are new, broader conditions (such as gig workers, part-timers and contractors) specifically during the state of emergency caused by COVID-19. Some benefits apply to everyone affected, and some apply only to those who lost jobs directly because of COVID-19.
 
+- [Mento](https://www.mento.co/relief-resources) has a free COVID-19 benefit-finder tool to help you determine (after a short quiz) which benefits you may qualify to receive for your situation. They also offer free or low-cost customized career coaching and guidance on many of the topics covered in this guide.
 - Your specific unemployment benefits will vary depending on your state, situation, etc. But you can start with [edd.ca.gov](https://edd.ca.gov) if you're in California, and the federal government also has info at [usa.gov/unemployment](https://www.usa.gov/unemployment).
 - In most cases you can apply for unemployment benefits as soon as you're no longer on company payroll. Beware of a common gotcha: if you learn you're laid off on Tuesday, but your company plans to call your "official last day" Friday, you can't apply for unemployment until Saturday.
 - Take care to complete your application as accurately as possible. One typo (for example, incorrectly filing your last day) can cause delays in getting paid, and the unemployment benefits providers are overwhelmed right now.
@@ -151,6 +152,7 @@ Coming soon! (seriously: we wrote a whole blog post about our experience that we
 If your company is unaffected by layoffs, or if layoffs did not impact hiring needs in other departments, you can do a few things to contribute toward industry-wide solutions:
 
 ###### Source your candidate pipeline from layoff lists/trackers, either distributed by your investors or through sites listed below. Layoffs are currently affecting every sector (even parts of healthcare).
+- [ParachuteList](https://parachutelist.com/) claims to be "all the layoff lists, consolidated"
 - [layoffs.fyi](layoffs.fyi)
 - [Layoff-Aid](https://www.layoff-aid.com/faqforhiring)
 - [Candor.co](https://candor.co/layoff-list/)
