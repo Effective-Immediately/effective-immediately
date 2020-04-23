@@ -168,5 +168,5 @@ If your company is unaffected by layoffs, or if layoffs did not impact hiring ne
 - [Hire Tech Ladies](https://www.hiretechladies.com/partners/)
 
 ## Employees - How you can help
-- There's a section just for you and how to help your colleagues on our [recently-published blog post](https://triplebyte.com/blog/effective-immediately-supporting-your-people-after-layoffs). We hope it's useful.
+- There's a section just for you and how to help your colleagues on our [recently-published blog post](https://triplebyte.com/blog/effective-immediately-supporting-your-people-after-layoffs). We hope it's useful. The tl;dr is: amplify your colleagues-- share or like their posts, write LinkedIn Recommendations, or introduce them to recruiters from a previous job search or friends at other companies still hiring. Try to be specific with any help you offer, and avoid the overwhelming phrase "don't hesitate to reach out."
 - QZ on [helping a friend through a coronavirus layoff](https://qz.com/work/1829796/what-to-say-when-someone-is-laid-off-because-of-coronavirus/)
