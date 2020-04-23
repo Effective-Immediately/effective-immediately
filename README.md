@@ -159,7 +159,7 @@ If your company is unaffected by layoffs, or if layoffs did not impact hiring ne
 - [Candor.co](https://candor.co/layoff-list/)
 - [Awesome People List](https://docs.google.com/spreadsheets/d/1veoc3BJdELLkYpiJ1_ehXuKL_nK9ijROk8_bn0OmPso/edit#gid=1954995424) for candidates laid off from venture-backed companies.
 
-###### Repost open jobs frequently. Stale postings (2+ weeks old, especially if your company already had a round of layoffs) are unreliable when industry hiring needs are changing weekly. If you haven't already, add your open jobs to sites/lists like the following:
+###### Repost open jobs frequently. If your careers page doesn't already mention when the posting was updated, consider adding it. Stale postings (2+ weeks old, especially if your company already had a round of layoffs) are unreliable when industry hiring needs are changing weekly. If you haven't already, add your open jobs to sites/lists like the following:
 - [Still hiring](https://www.stillhiring.io/)
 - [Silver Lining](https://www.getsilverlining.com/companies/hire)
 - [levels.fyi](https://www.levels.fyi/still-hiring/)
