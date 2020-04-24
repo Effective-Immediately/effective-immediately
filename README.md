@@ -1,5 +1,38 @@
 # Effective Immediately
 
+<!-- toc -->
+
+- [About](#about)
+  * [Why does this exist?](#why-does-this-exist)
+  * [Who are we?](#who-are-we)
+  * [How to use this](#how-to-use-this)
+  * [How to contribute](#how-to-contribute)
+- [Getting Started](#getting-started)
+  * [Questions to ask immediately after notification](#questions-to-ask-immediately-after-notification)
+  * [Self-Care and Resilience](#self-care-and-resilience)
+- [Understanding Benefits](#understanding-benefits)
+  * [Note on California](#note-on-california)
+  * [Unemployment](#unemployment)
+  * [Healthcare](#healthcare)
+  * [All-in-One Guides](#all-in-one-guides)
+- [Next Job](#next-job)
+  * [Getting Organized](#getting-organized)
+  * [Networking](#networking)
+  * [Applying to Jobs](#applying-to-jobs)
+  * [Updating Resumes & Writing Cover Letters](#updating-resumes--writing-cover-letters)
+  * [Where to Apply](#where-to-apply)
+  * [Preparing for Interviews](#preparing-for-interviews)
+  * [Offers and Negotiating](#offers-and-negotiating)
+- [Employers - How You Can Help](#employers---how-you-can-help)
+  * [Before Layoffs](#before-layoffs)
+  * [After Layoffs](#after-layoffs)
+  * [Still Hiring?](#still-hiring)
+    + [Sourcing Candidates](#sourcing-candidates)
+    + [Repost Open Jobs](#repost-open-jobs)
+- [Employees - How You Can Help](#employees---how-you-can-help)
+
+<!-- tocstop -->
+
 ## About
 
 A central hub for employers, employees, and people who've been recently laid off. We hope each of you can find helpful resources about handling or recovering from layoffs during a pandemic.
@@ -13,38 +46,6 @@ During that month, many more people were laid off and the spreadsheets, LinkedIn
 We don't know yet if that wave has crested, but we're still seeing layoff news every week. By early April, we decided the work we'd done to help our colleagues might be useful to other people after we finished. We also kept finding resources in corners we didn't know about and wondered if there couldn't be a more community-supported, centralized way to share information.
 
 And thus, Effective Immediately was born.
-
-## Table of Contents
-
-   * [Effective Immediately](#effective-immediately)
-      * [About](#about)
-         * [Why does this exist?](#why-does-this-exist)
-         * [Who are we?](#who-are-we)
-         * [How to use this](#how-to-use-this)
-         * [How to contribute](#how-to-contribute)
-      * [Getting Started](#getting-started)
-         * [Questions to ask immediately after notification](#questions-to-ask-immediately-after-notification)
-         * [Self-Care and Resilience](#self-care-and-resilience)
-      * [Understanding Benefits](#understanding-benefits)
-         * [Note on California](#note-on-california)
-         * [Unemployment](#unemployment)
-         * [Healthcare](#healthcare)
-         * [All-in-One Guides](#all-in-one-guides)
-      * [Next Job](#next-job)
-         * [Getting Organized](#getting-organized)
-         * [Networking](#networking)
-         * [Applying to Jobs](#applying-to-jobs)
-         * [Updating Resumes &amp; Writing Cover Letters](#updating-resumes--writing-cover-letters)
-         * [Where to Apply](#where-to-apply)
-         * [Preparing for Interviews](#preparing-for-interviews)
-      * [Offers and Negotiating](#offers-and-negotiating)
-      * [Employers - How You Can Help](#employers---how-you-can-help)
-         * [Before Layoffs](#before-layoffs)
-         * [After Layoffs](#after-layoffs)
-         * [Still Hiring?](#still-hiring)
-            * [Sourcing Candidates](#sourcing-candidates)
-            * [Repost Open Jobs](#repost-open-jobs)
-      * [Employees - How You Can Help](#employees---how-you-can-help)
 
 ### Who are we?
 
@@ -242,7 +243,7 @@ We'll keep adding to these resources, but here's a list to start with:
 
 - FastCompany on [tips for virtual interview prep](https://www.fastcompany.com/90479058/5-things-you-must-do-to-have-a-successful-job-interview-on-video-during-the-covid-19-outbreak) during COVID-19 times
 
-## Offers and Negotiating
+### Offers and Negotiating
 
 In this market, it may be challenging to negotiate or otherwise expect to move forward in your salary growth. You may even take a side step to something entirely different (and potentially lower-paying) to keep yourself busy or pay the bills til you figure something else out. That's OK! There's no shame in that, and since tens of millions of people have been laid off this year, good recruiters won't think twice about what you do this year.
 
