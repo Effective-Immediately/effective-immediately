@@ -90,11 +90,11 @@ Getting laid off under any circumstance is no walk in the park, but during a pan
 If HR doesn't answer these 7 questions for you, find out. [HBR: 7 questions to raise after you're laid off](https://hbr.org/2020/03/7-questions-to-raise-immediately-after-youre-laid-off). Although worth reading for the context, since it's paywalled, the basic questions are:
 
 1. When do I receive my last paycheck?
-2. Will I receive severance pay? 
-3. How long will I have to exercise my stock options? 
-4. Does the company offer healthcare coverage after my last day, and if so for how long? 
-5. Will you provide a reference for me? 
-6. How can I get copies of my performance reviews, and by when? 
+2. Will I receive severance pay?
+3. How long will I have to exercise my stock options?
+4. Does the company offer healthcare coverage after my last day, and if so for how long?
+5. Will you provide a reference for me?
+6. How can I get copies of my performance reviews, and by when?
 7. What will happen to my 401(k)?
 
 We'd add:
@@ -147,7 +147,7 @@ People laid off are typically entitled to COBRA (your existing health coverage p
 
 - You may find this article more helpful to [compare COBRA to Covered California](https://www.coveredca.com/individuals-and-families/special-circumstances/cobra/) in detail.
 
-### All-in-One Guides 
+### All-in-One Guides
 
 These cover some or all of the above (and below):
 
@@ -161,7 +161,7 @@ These cover some or all of the above (and below):
 
 ## Next Job
 
-_Insert Intro Section_ 
+_Insert Intro Section_
 
 ### Getting Organized
 
@@ -288,7 +288,7 @@ Source your candidate pipeline from layoff lists/trackers, either distributed by
 - [Drafted](https://app.drafted.us/)
 - [Awesome People List](https://docs.google.com/spreadsheets/d/1veoc3BJdELLkYpiJ1_ehXuKL_nK9ijROk8_bn0OmPso/edit#gid=1954995424) for candidates laid off from venture-backed companies.
 
-#### Repost Open Jobs 
+#### Repost Open Jobs
 
 Repost open jobs frequently. If your careers page doesn't already mention when the posting was updated, consider adding it. Stale postings (2+ weeks old, especially if your company already had a round of layoffs) are unreliable when industry hiring needs are changing weekly. If you haven't already, add your open jobs to sites/lists like the following:
 
@@ -301,4 +301,5 @@ Repost open jobs frequently. If your careers page doesn't already mention when t
 
 ## Employees - How You Can Help
 
-There's a section just for you and how to help your colleagues on our [recently-published blog post](https://triplebyte.com/blog/effective-immediately-supporting-your-people-after-layoffs). We hope it's useful. The tl;dr is: amplify your colleagues-- share or like their posts, write LinkedIn Recommendations, or introduce them to recruiters from a previous job search or friends at other companies still hiring. Try to be specific with any help you offer, and avoid the overwhelming phrase "don't hesitate to reach out." QZ on [helping a friend through a coronavirus layoff](https://qz.com/work/1829796/what-to-say-when-someone-is-laid-off-because-of-coronavirus/)
+There's a section just for you and how to help your colleagues on our [recently-published blog post](https://triplebyte.com/blog/effective-immediately-supporting-your-people-after-layoffs). We hope it's useful. The tl;dr is: amplify your colleagues-- share or like their posts, write LinkedIn Recommendations, or introduce them to recruiters from a previous job search or friends at other companies still hiring. Try to be specific with any help you offer, and avoid the overwhelming phrase "don't hesitate to reach out."
+- QZ on [helping a friend through a coronavirus layoff](https://qz.com/work/1829796/what-to-say-when-someone-is-laid-off-because-of-coronavirus/)
