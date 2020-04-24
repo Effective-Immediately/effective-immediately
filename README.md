@@ -14,6 +14,38 @@ We don't know yet if that wave has crested, but we're still seeing layoff news e
 
 And thus, Effective Immediately was born.
 
+## Table of Contents
+
+   * [Effective Immediately](#effective-immediately)
+      * [About](#about)
+         * [Why does this exist?](#why-does-this-exist)
+         * [Who are we?](#who-are-we)
+         * [How to use this](#how-to-use-this)
+         * [How to contribute](#how-to-contribute)
+      * [Getting Started](#getting-started)
+         * [Questions to ask immediately after notification](#questions-to-ask-immediately-after-notification)
+         * [Self-Care and Resilience](#self-care-and-resilience)
+      * [Understanding Benefits](#understanding-benefits)
+         * [Note on California](#note-on-california)
+         * [Unemployment](#unemployment)
+         * [Healthcare](#healthcare)
+         * [All-in-One Guides](#all-in-one-guides)
+      * [Next Job](#next-job)
+         * [Getting Organized](#getting-organized)
+         * [Networking](#networking)
+         * [Applying to Jobs](#applying-to-jobs)
+         * [Updating Resumes &amp; Writing Cover Letters](#updating-resumes--writing-cover-letters)
+         * [Where to Apply](#where-to-apply)
+         * [Preparing for Interviews](#preparing-for-interviews)
+      * [Offers and Negotiating](#offers-and-negotiating)
+      * [Employers - How You Can Help](#employers---how-you-can-help)
+         * [Before Layoffs](#before-layoffs)
+         * [After Layoffs](#after-layoffs)
+         * [Still Hiring?](#still-hiring)
+            * [Sourcing Candidates](#sourcing-candidates)
+            * [Repost Open Jobs](#repost-open-jobs)
+      * [Employees - How You Can Help](#employees---how-you-can-help)
+
 ### Who are we?
 
 Your core maintainers here are [Eben Dower](https://linkedin.com/in/eben-dower), [Kevin Landucci](https://linkedin.com/in/kevinlanducci), and [Krista Lane](https://linkedin.com/in/krista-lane), all former Senior Talent Managers at Triplebyte.
