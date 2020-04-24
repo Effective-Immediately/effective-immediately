@@ -1,5 +1,11 @@
 # Effective Immediately
 
+## About
+
+A central hub for employers, employees, and people who've been recently laid off. We hope each of you can find helpful resources about handling or recovering from layoffs during a pandemic.
+
+### Table of Contents
+
 <!-- toc -->
 
 - [About](#about)
@@ -32,10 +38,6 @@
 - [Employees - How You Can Help](#employees---how-you-can-help)
 
 <!-- tocstop -->
-
-## About
-
-A central hub for employers, employees, and people who've been recently laid off. We hope each of you can find helpful resources about handling or recovering from layoffs during a pandemic.
 
 ### Why does this exist?
 
