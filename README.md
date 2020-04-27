@@ -51,7 +51,7 @@ And thus, Effective Immediately was born.
 
 ### Who are we?
 
-Your core maintainers here are [Eben Dower](https://linkedin.com/in/eben-dower), [Kevin Landucci](https://linkedin.com/in/kevinlanducci), and [Krista Lane](https://linkedin.com/in/krista-lane), all former Senior Talent Managers at Triplebyte.
+Your core maintainers here are [Eben Dower](https://linkedin.com/in/eben-dower), [Kevin Landucci](https://linkedin.com/in/kevinlanducci), and [Krista Lane](https://linkedin.com/in/krista-lane), all former Senior Talent Managers at Triplebyte. We've also started a casual video series about all things interviewing, called [Triangulation Station](https://www.youtube.com/channel/UCaAgH2-68yTmR8C_pb0XEUQ).
 
 [Jordan Helsloot](https://linkedin.com/in/jordanhelsloot) is a valued contributor to Effective Immediately and former Head of Talent Management at Triplebyte.
 
@@ -234,6 +234,8 @@ We'll keep adding to these resources, but here's a list to start with:
 - [Jopwell’s Recap Article from their “Acing the Virtual Interview” Webinar](https://www.jopwell.com/thewell/posts/webinar-series-how-to-ace-the-virtual-interview?utm_medium=email&utm_source=mc&utm_campaign=event%20-%20community%20webinar%20recap%20-%2003/30/20&utm_source=Final+Jopwell+Candidate+Master+List&utm_campaign=094cb72b72-Event+-+Community+Webinar+Recap+-+03%2F30%2F20&utm_medium=email&utm_term=0_ed426c313b-094cb72b72-261802125)
 
 - [Twilio Unplugged](https://www.twilio.com/blog/unplugged-series) is offering a digital interview prep series (check their site for announcements on the next live event).
+
+- Effective Immediately's own Kevin, Eben & Krista started an informal interview series called Triangulation Station. [Episode 1](https://www.youtube.com/watch?v=DCR8snygiaI) is about Kevin's job search process.
 
 - [Pathrise](https://www.pathrise.com/guides/how-to-get-a-job-at-company) offers interview prep guides for specific companies.
 
