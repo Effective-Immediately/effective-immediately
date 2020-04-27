@@ -207,6 +207,8 @@ Depending on your runway, you may decide the focus of your search is to find you
 
 - Krista's [longform opinions](https://medium.com/@kristalane/a-treatise-on-resumes-23497dad165f) on resumes.
 
+- Anastasia Ecin & Andrew Echevarria's [How to write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub) - includes resources for students or new grads as well.
+
 ### Where to Apply
 
 Depending how you strategize your search, you may want to "spray and pray" applications to a lot of companies, or target your search, or something in between. Some people have recommended targeting "recession-proof" businesses like food/grocery industry.
