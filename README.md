@@ -342,6 +342,28 @@ Repost open jobs frequently. If your careers page doesn't already mention when t
 - [Diversify Tech](https://www.diversifytech.co/post-a-job)
 - [Hire Tech Ladies](https://www.hiretechladies.com/partners/)
 
+#### Close Closed Jobs
+
+This sounds obvious, but if you're in a hiring freeze or otherwise not going to review inbound applications for the foreseeable future, *don't accept them*. Take down job postings for which you aren't hiring.
+
+Why? Tens of millions of people are unemployed. It's fair to say at least millions are looking for work. Leaving hopeless job postings up costs them time and energy they could spend on stronger leads.
+
+We get the impetus to keep building the pipeline, but be honest-- do you prioritize inbound applications anyway? Besides: With that many jobseekers, there are likely to be plenty still looking (or coming back from taking a break) by the time you're actually ready to review them-- save it for the fresh leads and don't leave applicants hanging.
+
+(If this means you have "nothing" for your recruiters to do, believe me, they probably have plenty of process improvement project ideas they've never had the chance to work on. If not, or they've already done them, you can set their skills to work on outreach-- hosting resume reviews, interview prep advice, etc that helps build your brand)
+
+#### Be Clear With Candidates
+
+Some sound obvious, but these are pain points we've heard are still happening:
+
+- If you're reaching out to someone unemployed, include whether your outreach is regarding a job opportunity, seeking advice, or something else. Jobseekers have to carefully prioritize time and energy (especially now). You being upfront helps them plan accordingly.
+
+- Avoid ghosting candidates you've spoken to. Keep them posted on when you expect to get back to them, and follow through.
+
+- If things change (it happens), communicate that as quickly and clearly as you can.
+
+- Any feedback or advice you can offer when it doesn't work out? This will go a long way toward generating referrals for better-fit candidates and goodwill for later. You should be giving feedback anyway-- [Aline Lerner has thoughts!](http://blog.interviewing.io/no-engineer-has-ever-sued-a-company-because-of-constructive-post-interview-feedback-so-why-dont-employers-do-it/)-- but it'll be appreciated even more now.
+
 ## Employees - How You Can Help
 
 There's a section just for you and how to help your colleagues on our [recently-published blog post](https://triplebyte.com/blog/effective-immediately-supporting-your-people-after-layoffs). We hope it's useful. The tl;dr is: amplify your colleagues-- share or like their posts, write LinkedIn Recommendations, or introduce them to recruiters from a previous job search or friends at other companies still hiring. Try to be specific with any help you offer, and avoid the overwhelming phrase "don't hesitate to reach out."
