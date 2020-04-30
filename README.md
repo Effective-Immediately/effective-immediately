@@ -20,6 +20,7 @@ A central hub for employers, employees, and people who've been recently laid off
   * [Note on California](#note-on-california)
   * [Unemployment](#unemployment)
   * [Healthcare](#healthcare)
+  * [US Work Visas](#us-work-visas)
   * [All-in-One Guides](#all-in-one-guides)
 - [Next Job](#next-job)
   * [Getting Organized](#getting-organized)
@@ -146,6 +147,44 @@ People laid off are typically entitled to COBRA (your existing health coverage p
 - Covered California (for CA residents) may be another option.
 
 - You may find this article more helpful to [compare COBRA to Covered California](https://www.coveredca.com/individuals-and-families/special-circumstances/cobra/) in detail.
+
+### US Work Visas
+The following resources are specifically for those terminated or furloughed AND on US work visas. Some may also be useful context for candidates currently interviewing, such as adjusted expectations for visa applications/transfers and interview/onboarding processes. Many thanks to [Milena Souto](https://www.linkedin.com/in/milenasouto/) for researching and writing this US Work Visas section.
+
+*Disclaimer: We are neither immigration attorneys nor compliance experts. We recommend consulting an immigration attorney. (Many offer pro-bono or free consultation. Some free clinics are listed below.) If you’re furloughed or still have access to your employer’s Human Resources team or HR Immigration Coordinator, these might be good resources to consult on your specific visa and work authorization situation.*
+
+#### Talking to USCIS
+
+Find [updated information about USCIS office closures](https://www.uscis.gov/about-us/uscis-response-covid-19) in response to COVID-19. You can find their contact information and detailed instructions on applying for an extension of stay and change of status in case you need to remain in the U.S. beyond authorized stay. As of April, USCIS plans to begin reopening offices on or after June 4. Although in-person appointments were cancelled, USCIS continues to perform duties that do not involve contact with the public.
+
+The Department of State has [suspended routine visa processing](https://www.reuters.com/article/us-health-coronavirus-usa-visas/u-s-suspending-visa-services-worldwide-due-to-coronavirus-state-department-idUSKBN2153NP) at consulates and embassies abroad.
+
+#### Common questions during COVID-19 related to changes of status
+[National Law Review’s Immigration Q&A for the COVID-19 Pandemic](https://www.natlawreview.com/article/immigration-qa-covid-19-pandemic) covers questions related to H-1B, working remotely, permanent layoff/termination and unemployment benefits. Two important items on termination are highlighted below:
+1. What happens to foreign national workers if they are terminated?
+- The standard grace period of up to 60 days is granted to the following visas under federal regulations: E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 or TN.
+- Length of the grace period: “is either 60 consecutive days or until the end of the worker’s current authorized validity period, whichever is shorter.”
+2. Grace period allows foreign national workers to:
+- “find other employment with an employer who can file an extension or change of status within the 60-day period.”
+- “potentially change to some other status on his or her own during the grace period, such as to F-1, after enrolling in a school.”
+
+#### For employers, but potentially helpful to others anyway
+- Law firm Husch Blackwell wrote [Additional Resource on H-1B Visa Rules](https://www.huschblackwell.com/newsandinsights/understanding-the-h-1b-visa-rules-during-covid-19). This provides information on H-1B regulations for employers seeking to retain H-1B workers. It might also be helpful for individuals seeking employment and visa transfers to better-understand remote hiring, WFH policies, non-productive status, and reduced hours.
+
+- Immigration Nerds and the Erickson Immigration Group is a podcast typically more employer-focused, but covers information on notifying USCIS about working remotely, LCA filings, and right to work verification through I-9 and document verification processes. The episode Addressing Employer's Immigration Concerns and Best Recommendations is available on [Apple Podcasts](https://podcasts.apple.com/us/podcast/special-alert-coronavirus-addressing-employers-immigration/id1400312981?i=1000468043824), or [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vaW1taWdyYXRpb24tbmVyZHMv&ep=14&episode=NDI3OTVjNDUtYTFiYS00MDM1LWI4ZmMtNmRmYjcyNzEzZmE0).
+
+#### Travel Restrictions & Students Maintaining J-1 and F-1 OPT Visas:
+
+If you’re an international student, we also suggest looking into your university’s international and student resource centers.
+
+- Universities such as [Johns Hopkins University](https://ois.jhu.edu/Immigration_and_Visas/Travel_Information/COVID-19_Immigration-Related_FAQs/) and [Columbia University](https://isso.columbia.edu/content/isso-covid-19-student-faqs) have International Student Offices where you can find support and resources on decision-making process involved in leaving/returning to the US and maintaining eligibility for J-1 and F-1 OPT visas. These universities' FAQs linked might be helpful.
+
+- The Immigration Nerds podcast released another episode on the Outlook for F-1 Students in a Covid Era: [Apple Podcasts](https://podcasts.apple.com/us/podcast/marcelo-barros-harsh-sharda-outlook-for-f-1-students/id1400312981?i=1000470697304), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vaW1taWdyYXRpb24tbmVyZHMv&ep=14&episode=YjA1ZDUyMGMtMGZlYi00NDM1LWJjZTEtMzUyZGJlZjQyMzdh). It interviews Marcelo Barros, founder of the International Advantage, who provides insight on the job search process for international students.
+
+#### More services & resources from professionals
+- A non-profit legal services organization called Legal Aid At Work released a [FAQ on COVID-19](https://legalaidatwork.org/factsheet/coronavirus-faq/) and its impact in employers. It also has virtual [free clinics](http://legalaidatwork.org/clinics-and-helplines/) and helpline services in Spanish, Mandarin, Cantonese, and other languages.
+
+- The Services, Immigrant Rights and Education Network (SIREN) also provides [immigation legal services](http://www.siren-bayarea.org/immigration-legal-services) in the Bay Area through a general immigration legal clinic and immigrant Q&A hotline.
 
 ### All-in-One Guides
 
