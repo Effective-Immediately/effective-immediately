@@ -17,7 +17,7 @@ Original work we include will be credited fully in the main readme.
 
 Accepted contributions of other types will be credited below unless you request to remain anonymous.
 
-If you're familiar with Github, using issues or pull requests will automatically attribute change authors.
+If you're familiar with Github, using issues or pull requests will automatically attribute change authors, so below we will list contributors who submit contributions by email.
 
 Depending on how many contributions we receive, we may change how we organize the attribution credits section below.  
 
@@ -28,3 +28,4 @@ Depending on how many contributions we receive, we may change how we organize th
 
 ### Our Valued Contributors
 - [Jordan Helsloot](https://linkedin.com/in/jordanhelsloot)
+- [Milena Souto](https://www.linkedin.com/in/milenasouto/)
