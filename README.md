@@ -134,7 +134,7 @@ There are new, broader conditions (such as gig workers, part-timers and contract
 
 - [Mento](https://www.mento.co/relief-resources) has a free COVID-19 benefit-finder tool to help you determine (after a short quiz) which benefits you may qualify to receive for your situation. They also offer free or low-cost customized career coaching and guidance on many of the topics covered in this guide.
 
-- Your specific unemployment benefits will vary depending on your state, situation, etc. But you can start with [edd.ca.gov](https://edd.ca.gov) if you're in California, and the federal government also has info at [usa.gov/unemployment](https://www.usa.gov/unemployment).
+- Your specific unemployment benefits will vary depending on your state, situation, etc. [Gusto](https://gusto.com/blog/people-management/covid-state-unemployment-insurance-benefits) offers a list of all COVID-19 unemployment benefits for every US state. If you're in California, you can start with [edd.ca.gov](https://edd.ca.gov). The federal government also has info at [usa.gov/unemployment](https://www.usa.gov/unemployment).
 
 - In most cases you can apply for unemployment benefits as soon as you're no longer on company payroll. Beware of a common gotcha: if you learn you're laid off on Tuesday, but your company plans to call your "official last day" Friday, you can't apply for unemployment until Saturday.
 
@@ -144,9 +144,11 @@ There are new, broader conditions (such as gig workers, part-timers and contract
 
 People laid off are typically entitled to COBRA (your existing health coverage plan, but paid by you instead of your employer), but it is usually pretty expensive. If you have alternative healthcare options (such as a spouse's plan-- by the way, losing your job is a qualifying event to join outside of open enrollment) that may be your best route.
 
-- Covered California (for CA residents) may be another option.
+- [Covered California](https://www.coveredca.com/) (for CA residents) may be another option.
 
 - You may find this article more helpful to [compare COBRA to Covered California](https://www.coveredca.com/individuals-and-families/special-circumstances/cobra/) in detail.
+
+- [Jennie Ellis](https://www.linkedin.com/in/jenniferellis/) has recommended [Stride Health](https://www.stridehealth.com/) to help find the most cost-effective insurance options.
 
 ### US Work Visas
 The following resources are specifically for those terminated or furloughed AND on US work visas. Some may also be useful context for candidates currently interviewing, such as adjusted expectations for visa applications/transfers and interview/onboarding processes. Many thanks to [Milena Souto](https://www.linkedin.com/in/milenasouto/) for researching and writing this US Work Visas section.
