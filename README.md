@@ -150,7 +150,7 @@ People laid off are typically entitled to COBRA (your existing health coverage p
 
 - You may find this article more helpful to [compare COBRA to Covered California](https://www.coveredca.com/individuals-and-families/special-circumstances/cobra/) in detail. 
 
-- [Jennie Ellis](https://www.linkedin.com/in/jenniferellis/) has recommended [Stride Health](https://www.stridehealth.com/) to help find the most cost-effective insurance options. In California, if you've exhausted your federal COBRA eligibility, you might be eligible for more months of [Cal-COBRA coverage](https://www.dmhc.ca.gov/HealthCareinCalifornia/TypesofPlans/KeepYourHealthCoverage(COBRA).aspx). H/t to [mejarc](https://github.com/mejarc) for this tip.
+- [Jennie Ellis](https://www.linkedin.com/in/jenniferellis/) has recommended [Stride Health](https://www.stridehealth.com/) to help find the most cost-effective insurance options. If you've exhausted your federal COBRA eligibility, you might be eligible for more months of [Cal-COBRA coverage](https://www.dmhc.ca.gov/HealthCareinCalifornia/TypesofPlans/KeepYourHealthCoverage(COBRA).aspx). H/t to [mejarc](https://github.com/mejarc) for this tip.
 
 ### US Work Visas
 The following resources are specifically for those terminated or furloughed AND on US work visas. Some may also be useful context for candidates currently interviewing, such as adjusted expectations for visa applications/transfers and interview/onboarding processes. Many thanks to [Milena Souto](https://www.linkedin.com/in/milenasouto/) for researching and writing this US Work Visas section.
