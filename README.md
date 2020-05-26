@@ -122,7 +122,7 @@ We'd add:
 
 ## Understanding Benefits
 
-_Intro Section_
+_This section listens benefits you might entitled to while unemployed_
 
 ### Note on California
 
