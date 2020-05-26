@@ -54,6 +54,8 @@ And thus, Effective Immediately was born.
 
 Your core maintainers here are [Eben Dower](https://linkedin.com/in/eben-dower), [Kevin Landucci](https://linkedin.com/in/kevinlanducci), and [Krista Lane](https://linkedin.com/in/krista-lane), all former Senior Talent Managers at Triplebyte. We've also started a casual video series about all things interviewing, called [Triangulation Station](https://www.youtube.com/channel/UCaAgH2-68yTmR8C_pb0XEUQ).
 
+[Milena Souto](https://linkedin.com/in/milenasouto) is a maintainer, focusing on US Visas/immigration-related matters.
+
 [Jordan Helsloot](https://linkedin.com/in/jordanhelsloot) is a valued contributor to Effective Immediately and former Head of Talent Management at Triplebyte.
 
 [Trent Krupp](https://linkedin.com/in/trentkrupp), Triplebyte's current VP of Operations, lent fundamental support and encouragement to enable this project to exist beyond Triplebyte.
