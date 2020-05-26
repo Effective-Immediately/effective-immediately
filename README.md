@@ -152,10 +152,10 @@ People laid off are typically entitled to COBRA (your existing health coverage p
 
 - [Jennie Ellis](https://www.linkedin.com/in/jenniferellis/) has recommended [Stride Health](https://www.stridehealth.com/) to help find the most cost-effective insurance options. If you've exhausted your federal COBRA eligibility, you might be eligible for more months of [Cal-COBRA coverage](https://www.dmhc.ca.gov/HealthCareinCalifornia/TypesofPlans/KeepYourHealthCoverage(COBRA).aspx). H/t to [mejarc](https://github.com/mejarc) for this tip.
 
-### US Work Visas
-The following resources are specifically for those terminated or furloughed AND on US work visas. Some may also be useful context for candidates currently interviewing, such as adjusted expectations for visa applications/transfers and interview/onboarding processes. Many thanks to [Milena Souto](https://www.linkedin.com/in/milenasouto/) for researching and writing this US Work Visas section.
+### US Visa and Immigration Support
+The following resources are specifically for those terminated or furloughed AND on US work visas. Some may also be useful context for candidates currently interviewing, such as adjusted expectations for visa applications/transfers and interview/onboarding processes. Many thanks to [Milena Souto](https://www.linkedin.com/in/milenasouto/) for researching and writing this section.
 
-*Disclaimer: We are neither immigration attorneys nor compliance experts. We recommend consulting an immigration attorney. (Many offer pro-bono or free consultation. Some free clinics are listed below.) If you’re furloughed or still have access to your employer’s Human Resources team or HR Immigration Coordinator, these might be good resources to consult on your specific visa and work authorization situation.*
+*Disclaimer: We are neither immigration attorneys nor compliance experts. We recommend consulting an immigration attorney. (Many offer pro-bono/free consultations. Some free clinics are listed below.) If you’re furloughed or still have access to your employer’s Human Resources team or HR Immigration Coordinator, these might be good resources to consult on your specific visa and work authorization situation.*
 
 #### Talking to USCIS
 
