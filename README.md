@@ -138,6 +138,8 @@ There are new, broader conditions (such as gig workers, part-timers and contract
 
 - Your specific unemployment benefits will vary depending on your state, situation, etc. [Gusto](https://gusto.com/blog/people-management/covid-state-unemployment-insurance-benefits) offers a list of all COVID-19 unemployment benefits for every US state. If you're in California, you can start with [edd.ca.gov](https://edd.ca.gov). The federal government also has info at [usa.gov/unemployment](https://www.usa.gov/unemployment).
 
+- [Career One Stop](https://www.careeronestop.org/), a U.S. Department of Labor website has an [Unemployment Benefits Finder tool](https://www.careeronestop.org/LocalHelp/UnemploymentBenefits/find-unemployment-benefits.aspx) to help you find your state-specific unemployment programs and websites.
+
 - In most cases you can apply for unemployment benefits as soon as you're no longer on company payroll. Beware of a common gotcha: if you learn you're laid off on Tuesday, but your company plans to call your "official last day" Friday, you can't apply for unemployment until Saturday.
 
 - Take care to complete your application as accurately as possible. One typo (for example, incorrectly filing your last day) can cause delays in getting paid, and the unemployment benefits providers are overwhelmed right now.
