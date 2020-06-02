@@ -110,7 +110,7 @@ We'd add:
 
 ### Self-Care and Resilience
 
-- Maintaining one's health is critical, mentally and physically. Therapy can really help. If you're on a tight budget, here are five affordable ideas courtesy of [Healthline](https://www.healthline.com/health/therapy-for-every-budget). [Vox](https://www.vox.com/identities/2020/4/7/21207281/coronavirus-covid-19-how-to-find-a-therapist) also has ideas specific to finding a therapist (including insurance-friendly telehealth options) during COVID-19 shelter-in-place.
+- Maintaining one's health is critical, mentally and physically. Therapy can really help. If you're on a tight budget, here are five affordable ideas courtesy of [Healthline](https://www.healthline.com/health/therapy-for-every-budget). [Vox](https://www.vox.com/identities/2020/4/7/21207281/coronavirus-covid-19-how-to-find-a-therapist) also has ideas specific to finding a therapist (including insurance-friendly telehealth options) during COVID-19 shelter-in-place. An initiave called [Coronavirus Online Therapy](https://www.coronavirusonlinetherapy.org/) offers pro-bono or low fee therapy for essential workers and [resources](https://www.coronavirusonlinetherapy.org/resources) to those who are not currently working, but still need support and affordable counseling services.
 
 - Here's a list on Lavandaire of [15 quarantine-friendly ideas](https://www.lavendaire.com/staycation/) for self-care and relaxation.
 
