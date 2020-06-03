@@ -20,7 +20,7 @@ A central hub for employers, employees, and people who've been recently laid off
   * [Note on California](#note-on-california)
   * [Unemployment](#unemployment)
   * [Healthcare](#healthcare)
-  * [US Work Visas](#us-work-visas)
+  * [US Visa and Immigration Support](#us-work-visas)
   * [All-in-One Guides](#all-in-one-guides)
 - [Next Job](#next-job)
   * [Getting Organized](#getting-organized)
