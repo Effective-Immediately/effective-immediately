@@ -46,7 +46,7 @@ We got laid off in early March 2020, just as America's (and to our eye, the tech
 
 During that month, many more people were laid off and the spreadsheets, LinkedIn and Twitter postings, articles, forms, lists, and more kept piling up. The signal to noise ratio was becoming unmanageable, data about who was hiring was becoming stale day by day.
 
-We don't know yet if that wave has crested, but we're still seeing layoff news every week. By early April, we decided the work we'd done to help our colleagues might be useful to other people after we finished. We also kept finding resources in corners we didn't know about and wondered if there couldn't be a more community-supported, centralized way to share information.
+It's ebbed and flowed over the years (!) but we're still seeing layoff news every week. We didn't want all the internal work we did to go to waste, so what you see started from that effort. We also kept finding resources in corners we didn't know about and wondered if there couldn't be a more community-supported, centralized way to share information.
 
 And thus, Effective Immediately was born.
 
@@ -54,11 +54,13 @@ And thus, Effective Immediately was born.
 
 Your core maintainers here are [Eben Dower](https://linkedin.com/in/eben-dower), [Kevin Landucci](https://linkedin.com/in/kevinlanducci), and [Krista Lane](https://linkedin.com/in/krista-lane), all former Senior Talent Managers at Triplebyte. We've also started a casual video series about all things interviewing, called [Triangulation Station](https://www.youtube.com/channel/UCaAgH2-68yTmR8C_pb0XEUQ).
 
-[Milena Souto](https://linkedin.com/in/milenasouto) is a maintainer, focusing on US Visas/immigration-related matters.
+Prior significant contributors from 2020:
 
-[Jordan Helsloot](https://linkedin.com/in/jordanhelsloot) is a valued contributor to Effective Immediately and former Head of Talent Management at Triplebyte.
+[Milena Souto](https://linkedin.com/in/milenasouto) was a maintainer, focusing on US Visas/immigration-related matters.
 
-[Trent Krupp](https://linkedin.com/in/trentkrupp), Triplebyte's current VP of Operations, lent fundamental support and encouragement to enable this project to exist beyond Triplebyte.
+[Jordan Helsloot](https://linkedin.com/in/jordanhelsloot) was a valued contributor to Effective Immediately and former Head of Talent Management at Triplebyte.
+
+[Trent Krupp](https://linkedin.com/in/trentkrupp), Triplebyte's former VP of Operations, lent fundamental support and encouragement to enable this project to exist beyond Triplebyte.
 
 Although our origins began with Triplebyte, Effective Immediately has no remaining affiliation (in any legally binding manner, at least) to it. We will not comment specifically about Triplebyte or its layoffs.
 
@@ -102,9 +104,9 @@ If HR doesn't answer these 7 questions for you, find out. [HBR: 7 questions to r
 
 We'd add:
 
-- Will I be able to keep my computer/related equipment? If the answer is no, and you don't have a personal machine, ask if it's possible to keep it at least on loan until you find your next job. This is particularly important considering public access to computer facilities (like the library) is restricted right now, and many of your interviews will be conducted remotely using a computer that can connect to videoconferencing software. In general, it's worth asking for what would help make transitioning out easier (or otherwise be impactful for you), even if the answer is no.
+- Will I be able to keep my computer/related equipment? If the answer is no, and you don't have a personal machine, ask if it's possible to keep it at least on loan until you find your next job. This may be particularly important in areas where public access to computer facilities (like the library) may be restricted or services not restored, and many of your interviews will be conducted remotely using a computer that can connect to videoconferencing software. In general, it's worth asking for what would help make transitioning out easier (or otherwise be impactful for you), even if the answer is no.
 
-- Depending on your situation (i.e. company size, layoff group size within 30-90 days, state, reason for layoff), you may be entitled to minimum standard severance benefits from your company after a layoff, such as 60 or 90-day notice (or equivalent pay), or from your state government in the form of additional unemployment benefits. We're not legal experts on any of the details, and in California at least, there are newly-announced exceptions due to COVID-19. So, if you feel your severance offer is lighter than it should be, you might ask whether the HR team has confirmed if your company meets those requirements. See: [CA WARN act FAQ](https://www.edd.ca.gov/About_EDD/coronavirus-2019/faqs/Warn.htm), and [Coronavirus and the WARN act](https://news.bloomberglaw.com/daily-labor-report/virus-driven-mass-worker-layoffs-could-soon-require-notice).
+- Depending on your situation (i.e. company size, layoff group size within 30-90 days, state, reason for layoff), you may be entitled to minimum standard severance benefits from your company after a layoff, such as 60 or 90-day notice (or equivalent pay), or from your state government in the form of additional unemployment benefits. We're not legal experts on any of the details, and in California at least, there may still be exceptions due to COVID-19 or local natural disasters. So, if you feel your severance offer is lighter than it should be, you might ask whether the HR team has confirmed if your company meets those requirements. See: [CA WARN act FAQ](https://www.edd.ca.gov/About_EDD/coronavirus-2019/faqs/Warn.htm), and [Coronavirus and the WARN act](https://news.bloomberglaw.com/daily-labor-report/virus-driven-mass-worker-layoffs-could-soon-require-notice).
 
 - [Candor.co](https://candor.co/guides/layoff) has a simpler guide to handle closing out with your now-former employer.
 
