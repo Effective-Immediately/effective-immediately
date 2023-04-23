@@ -216,6 +216,8 @@ We cannot recommend highly enough staying organized in this process. Don't trust
 
 - [Huntr.co](https://huntr.co/) website-ifies this concept if you like pretty things.
 
+- [Simplify Jobs](https://simplify.jobs/) has a browser extension that will automatically track your applications in a central dashboard no matter where you apply!
+
 - Some people write daily schedules to keep themselves on track for their job search. If that works for you, awesome!
 
 - Others find goal-setting within a wider time frame to be more effective for them. An example: rather than spending 9-11am updating resume, 2-3pm preparing applications/requesting intros, etc, you might find it easier to set achievable goals you control, such as, "by the end of day Wednesday, I will have applied to 15 jobs." Break that down into manageable tasks (research/bookmark jobs, update resume, write cover letter, update tracker, etc.) that build up to the overall goal for that time period. Find what works for you.
@@ -244,6 +246,8 @@ Determine how much time/savings you can budget to find a new job-- both optimist
 
 Depending on your runway, you may decide the focus of your search is to find your next dream role to spend the next 2+ years. Or you might be looking for whatever you can do for the next year to keep the lights on.
 
+- [Simplify Jobs](https://simplify.jobs/autofill) autofills your job applications in one-click - saving you hours from manually reentering your information on every application.
+
 ### Updating Resumes & Writing Cover Letters
 
 - Kevin's [How to make a resume that doesn’t suck](https://docs.google.com/document/d/1ETeJBTejvnj4a69kUNzjXWzgPCeGzddXyWfsjrtH5zA/edit)
@@ -267,6 +271,8 @@ It seemed overwhelming to list every job board here, but you can find many of th
 - [Job Boards from “The Ultimate COVID Job Resource Stack”](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757)
 
 - [Emsi’s Job Postings Dashboard](https://www.economicmodeling.com/job-posting-dashboard/)
+
+- [Simplify's Curated Job Lists](https://simplify.jobs/lists) & [Personalized Job Matches](https://simplify.jobs/preferences)
 
 ### Preparing for Interviews
 
