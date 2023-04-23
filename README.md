@@ -331,7 +331,7 @@ If your company is unaffected by layoffs, or if layoffs did not impact hiring ne
 Source your candidate pipeline from layoff lists/trackers, either distributed by your investors or through sites listed below. Layoffs are currently affecting every sector (even parts of healthcare).
 
 - [ParachuteList](https://parachutelist.com/) claims to be "all the layoff lists, consolidated"
-- [layoffs.fyi](layoffs.fyi)
+- [layoffs.fyi](https://layoffs.fyi)
 - [Layoff-Aid](https://www.layoff-aid.com/faqforhiring)
 - [Candor.co](https://candor.co/layoff-list/)
 - [Drafted](https://app.drafted.us/)
