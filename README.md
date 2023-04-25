@@ -216,6 +216,8 @@ We cannot recommend highly enough staying organized in this process. Don't trust
 
 - Here's a basic [sample job search tracker](https://docs.google.com/spreadsheets/d/1qTpAQoZr8vu_yJZ2Du9f3sYgM0kldscqXdyHGfGQ0SU/edit#gid=0) you can adapt for yourself, courtesy of Jordan Helsloot.
 
+- Here's a [slightly more complex tracking system](https://docs.google.com/spreadsheets/d/1Z0fbppuXoVCYpN0URXBr7ebFSnKcaNaGbDOrT_SsdBc/edit#gid=160798261) if you could benefit from comparing job titles and interview conversion rates, courtesy of Matthew Broberg.
+
 - [Huntr.co](https://huntr.co/) website-ifies this concept if you like pretty things.
 
 - [Simplify Jobs](https://simplify.jobs/) has a browser extension that will automatically track your applications in a central dashboard no matter where you apply!
