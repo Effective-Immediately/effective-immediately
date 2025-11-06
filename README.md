@@ -220,6 +220,8 @@ We cannot recommend highly enough staying organized in this process. Don't trust
 
 - [Huntr.co](https://huntr.co/) website-ifies this concept if you like pretty things.
 
+- [ResumeUp.ai](https://resumeup.ai/) is an AI-powered resume builder with a chat interface that helps users create, update, and organize their resumes dynamically.
+
 - [Simplify Jobs](https://simplify.jobs/) has a browser extension that will automatically track your applications in a central dashboard no matter where you apply!
 
 - Some people write daily schedules to keep themselves on track for their job search. If that works for you, awesome!
