@@ -309,7 +309,7 @@ We'll keep adding to these resources, but here's a list to start with:
 In this market, it may be challenging to negotiate or otherwise expect to move forward in your salary growth. You may even take a side step to something entirely different (and potentially lower-paying) to keep yourself busy or pay the bills til you figure something else out. That's OK! There's no shame in that, and since tens of millions of people have been laid off this year, good recruiters won't think twice about what you do this year.
 
 - JLevy's [Comprehensive open source equity guide](https://github.com/jlevy/og-equity-compensation)
-
+- [ESOP Value Clarity](https://esop-value-clarity.vercel.app/) - Employee-focused ESOP simulator for exploring vesting, ownership, dilution, exercise cost, exit scenarios, estimated tax impact, and comparing possible equity outcomes.
 - Jordan's [Decision-making rubric](https://docs.google.com/spreadsheets/d/1uhUTwj7WPdndOyhu7xS3BfBNEwtcc2BTHO2xmg-QGvs/edit#gid=832581606)-- helpful when comparing offers and you want to see the differences at the margin, but also useful to track weighted priorities/preferences between opportunities.
 
 ## Employers - How You Can Help
