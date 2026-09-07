@@ -255,6 +255,7 @@ Depending on your runway, you may decide the focus of your search is to find you
 ### Updating Resumes & Writing Cover Letters
 
 - Kevin's [How to make a resume that doesn’t suck](https://docs.google.com/document/d/1ETeJBTejvnj4a69kUNzjXWzgPCeGzddXyWfsjrtH5zA/edit)
+- [ResumeAI](https://withresumeai.com/) — AI resume builder and free ATS checker.
 
 - Kevin's [Light-hearted multidimensional approach for how to make a cover letter](https://docs.google.com/document/d/1B43BggM1nXkhyAbmanuFg6N7NP6mnIuWk_0xbp9acT8/edit)
 
