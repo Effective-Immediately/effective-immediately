@@ -262,6 +262,8 @@ Depending on your runway, you may decide the focus of your search is to find you
 
 - Anastasia Ecin & Andrew Echevarria's [How to write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub) - includes resources for students or new grads as well.
 
+- [JobEmerge](https://www.jobemerge.work) is a freemium career tool for checking job fit, translating resumes, and editing resumes in Markdown.
+
 ### Where to Apply
 
 Depending how you strategize your search, you may want to "spray and pray" applications to a lot of companies, or target your search, or something in between. Some people have recommended targeting "recession-proof" businesses like food/grocery industry.
@@ -384,3 +386,4 @@ Some sound obvious, but these are pain points we've heard are still happening:
 
 There's a section just for you and how to help your colleagues on our [recently-published blog post](https://triplebyte.com/blog/effective-immediately-supporting-your-people-after-layoffs). We hope it's useful. The tl;dr is: amplify your colleagues-- share or like their posts, write LinkedIn Recommendations, or introduce them to recruiters from a previous job search or friends at other companies still hiring. Try to be specific with any help you offer, and avoid the overwhelming phrase "don't hesitate to reach out."
 - QZ on [helping a friend through a coronavirus layoff](https://qz.com/work/1829796/what-to-say-when-someone-is-laid-off-because-of-coronavirus/)
+
